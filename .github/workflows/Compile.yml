@@ -16,6 +16,7 @@ env:
   # REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_URL: https://github.com/KFERMercer/OpenWrt
   REPO_BRANCH: master
+# REPO_BRANCH: master --single-branch
 # REPO_BRANCH: lede-17.01 --single-branch
 # REPO_BRANCH: openwrt-18.06 --single-branch
 # REPO_BRANCH: openwrt-19.07 --single-branch
