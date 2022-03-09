@@ -10,10 +10,10 @@ on:
         default: 'false'
 
 env:
-  # REPO_URL: https://github.com/openwrt/openwrt
-  # REPO_URL: https://github.com/Lienol/openwrt
-  # REPO_URL: https://github.com/immortalwrt/immortalwrt
-  # REPO_URL: https://github.com/coolsnowwolf/lede
+# REPO_URL: https://github.com/openwrt/openwrt
+# REPO_URL: https://github.com/Lienol/openwrt
+# REPO_URL: https://github.com/immortalwrt/immortalwrt
+# REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_URL: https://github.com/KFERMercer/OpenWrt
   REPO_BRANCH: master
 # REPO_BRANCH: master --single-branch
