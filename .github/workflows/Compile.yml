@@ -56,7 +56,6 @@ jobs:
         sudo mkdir -p /workdir
         sudo chown $USER:$GROUPS /workdir
 
-
     - name: Clone Source Code
       working-directory: /workdir
       run: |
