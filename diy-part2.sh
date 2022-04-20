@@ -23,6 +23,7 @@ git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-passwall package/luci-app-passwall
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-passwall2 package/luci-app-passwall2
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
+svn co https://github.com/fw876/helloworld/trunk/luci-app-ssr-plus package/luci-app-ssr-plus
 
 # Compile Po2lmo (Skip if there is)
 pushd package/luci-app-openclash/tools/po2lmo
@@ -37,6 +38,11 @@ svn co https://github.com/xiaorouji/openwrt-passwall/trunk/luci-app-passwall pac
 svn co https://github.com/xiaorouji/openwrt-passwall/trunk/ssocks package/ssocks
 svn co https://github.com/xiaorouji/openwrt-passwall/trunk/hysteria package/hysteria
 svn co https://github.com/xiaorouji/openwrt-passwall/trunk/naiveproxy package/naiveproxy
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/dns2socks package/dns2socks
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/ipt2socks package/ipt2socks
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/microsocks package/microsocks
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/pdnsd-alt package/pdnsd-alt
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/v2ray-geodata package/v2ray-geodata
 svn co https://github.com/fw876/helloworld/trunk/xray-core package/xray-core
 svn co https://github.com/fw876/helloworld/trunk/simple-obfs package/simple-obfs
 svn co https://github.com/fw876/helloworld/trunk/trojan package/trojan
