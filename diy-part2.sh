@@ -11,7 +11,6 @@ rm -rf package/lean/luci-app-wrtbwmon
 rm -rf package/lean/luci-theme-argon
 # rm -rf package/lean/luci-theme-bootstrap
 
-
 # Add Packages
 # git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
